@@ -80,8 +80,8 @@ form button:hover{
 }
 .block i{
     padding: 10px;
-    background-color:transparent; 
-    color: transparent                                                            ;
+    background-color:brown; 
+    color: white;                                                           ;
     border-radius: 5px;
 }
 .block i:hover{
